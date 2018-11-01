@@ -39,7 +39,7 @@
 1 Intuition
 3 Island
 1 Kederekt Leviathan
-1 Life
+1 Life / Death
 1 Life from the Loam
 1 Lim-Dul's Vault
 1 Mana Confluence
