@@ -1,0 +1,97 @@
+1 Abrupt Decay
+1 Aetherflux Reservoir
+1 Alchemist's Refuge
+1 Animate Dead
+1 Arbor Elf
+1 Arcane Denial
+1 Barren Moor
+1 Beast Within
+1 Birds of Paradise
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Breeding Pool
+1 Cabal Coffers
+1 Cephalid Coliseum
+1 City of Brass
+1 Command Tower
+1 Consecrated Sphinx
+1 Counterspell
+1 Crop Rotation
+1 Cyclonic Rift
+1 Damnation
+1 Dark Petition
+1 Day's Undoing
+1 Deathrite Shaman
+1 Demonic Tutor
+1 Dimir Charm
+1 Dimir Signet
+1 Eldritch Evolution
+1 Elves of Deep Shadow
+1 Entomb
+1 Eternal Witness
+1 Exhume
+1 Exploration
+1 Fact or Fiction
+1 Fellwar Stone
+1 Fetid Pools
+1 Flooded Grove
+1 Flooded Strand
+2 Forest
+1 Gilded Drake
+1 Golgari Signet
+1 Intuition
+3 Island
+1 Jin-Gitaxias, Core Augur
+1 Kederekt Leviathan
+1 Life / Death
+1 Life from the Loam
+1 Lim-Dul's Vault
+1 Mana Confluence
+1 Mana Crypt
+1 Mana Drain
+1 Manifold Insights
+1 Marsh Flats
+1 Misty Rainforest
+1 Mystic Remora
+1 Necromancy
+1 Necropotence
+1 Noxious Revival
+1 Omniscience
+1 Overgrown Tomb
+1 Pact of Negation
+1 Palinchron
+1 Pernicious Deed
+1 Phantasmal Image
+1 Polluted Delta
+1 Rapid Hybridization
+1 Razaketh, the Foulblooded
+1 Reality Shift
+1 Reanimate
+1 Reflecting Pool
+1 Regrowth
+1 Scalding Tarn
+1 Seasons Past
+1 Seedborn Muse
+1 Sensei's Divining Top
+1 Show and Tell
+1 Simic Signet
+1 Sol Ring
+1 Strip Mine
+1 Sunken Ruins
+1 Swamp
+1 Swan Song
+1 Sylvan Library
+1 Talisman of Dominance
+1 Tasigur, the Golden Fang
+1 Toxic Deluge
+1 Training Grounds
+1 Tranquil Thicket
+1 Trickbind
+1 Twilight Mire
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Verdant Catacombs
+1 Watery Grave
+1 Windswept Heath
+1 Wooded Foothills
+1 Yahenni's Expertise
